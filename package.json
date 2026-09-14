@@ -1,0 +1,8 @@
+{
+  "name": "lens-ai-site",
+  "version": "1.0.0",
+  "description": "Landing page do Lens.AI com captura de leads",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
